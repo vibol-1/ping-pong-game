@@ -12,7 +12,7 @@ clock = time.Clock()
 
 platform_left = Player('image/racket.png', 10, 220, 4, 50, 150)
 platform_right = Player('image/racket.png', 500, 220, 4, 50, 150)
-ball = GameSprite(player_image='image/tenis_ball.png', player_x=200, player_y=200, player_speed=4, wight=50, height=50)
+ball = GameSprite(player_image='image/ball.png', player_x=200, player_y=200, player_speed=4, wight=50, height=50)
 
 font.init()
 font = font.Font(None, 35)
