@@ -61,3 +61,13 @@ while game:
 
     display.update()
     clock.tick(60) # 60 frame per second
+    
+#Note
+# To run do python3 main.py
+
+# git init
+# git add .
+# git commit -m "initial commit"
+# git push
+# To check if it went through we can do git remote -v
+# then go to github and refresh 
